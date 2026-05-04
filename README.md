@@ -3,7 +3,7 @@
 ## RA: 324138379
 
 
-(PRINTS)[prints]
+[PRINTS](Prints)
 
 ## PRINT DA ROTA 
 
